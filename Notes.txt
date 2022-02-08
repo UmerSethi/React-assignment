@@ -1,0 +1,13 @@
+Video # 33
+Video Duration :- 2:05:57
+
+
+HOW TO EXPORT MULTIPLE COMPONENTS ?
+
+export {
+   
+    Header , 
+     Logo 
+}
+
+==============================================
